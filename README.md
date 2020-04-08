@@ -27,6 +27,6 @@ Após isso, basta rodar a aplicação com o seguinte comando, tanto no diretóri
   
   <br><br>
   
-  Autor: Rafael Lopes de Melo
-  Contato: rafaelmelo.programmer@gmail.com 
-  Créditos à Rocketseat
+  Autor: Rafael Lopes de Melo <br>
+  Contato: rafaelmelo.programmer@gmail.com <br>
+  Créditos à @Rocketseat
