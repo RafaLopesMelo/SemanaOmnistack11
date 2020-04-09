@@ -24,6 +24,7 @@ Após isso, basta rodar a aplicação com o seguinte comando, tanto no diretóri
   - React (Front-end)
   - NodeJS (Back-end)
   - SQLite (Banco de dados)
+  - Knex (Query Builder)
   
   <br><br>
   
